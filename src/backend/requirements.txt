@@ -93,7 +93,7 @@ idna==3.10
     #   httpx
     #   requests
     #   yarl
-importlib-metadata==8.4.0
+importlib-metadata==8.7.0
     # via opentelemetry-api
 isodate==0.7.2
     # via msrest
